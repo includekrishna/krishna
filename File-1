@@ -1,4 +1,8 @@
 This is file 1
 Change-1
 Change after branching polcies applied
+<<<<<<< HEAD
 This is version 2
+=======
+This is version 1
+>>>>>>> parent of e058d59 (version-2)
